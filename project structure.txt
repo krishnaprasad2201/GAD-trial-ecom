@@ -1,0 +1,26 @@
+# Stationary E-commerce Website
+
+A basic e-commerce website for stationary products. This project includes:
+- Product listing
+- Shopping cart functionality
+- Basic checkout process
+
+## Files Structure
+```
+GAD - trial/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
+```
+
+## How to Use
+1. Download all files
+2. Keep all files in the same directory
+3. Open index.html in a web browser
+
+## Features
+- Responsive product grid
+- Shopping cart with quantity management
+- Total price calculation
+- Basic checkout process
